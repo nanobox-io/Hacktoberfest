@@ -7,6 +7,8 @@ Contribute to all the [Nanobox] things! [Hacktoberfest](https://hacktoberfest.di
 Our guides are the place where people learn how to configure their applications to deploy with Nanobox. We created many of these long ago and frameworks and processes have changed. Updating them is on our to-do lists, but if you'd like to help, you're more than welcome to. Everything from typos, flow, to full-fledged guides are welcome changes and additions.  
 Grab a guide and run through it. If it doesn't work, fix it! Also, fix any typos or steps of the process that just don't work.
 
+[Site](https://guides.nanobox.io) | [On Github](https://github.com/nanobox-io/nanobox-guides)
+
 #### General Updates
 
 - Typos
@@ -60,8 +62,6 @@ Engine settings can be viewed in the [Java Engine](https://github.com/nanobox-io
 - [ ] Update content in `articles/php/zendframework/configure-yii.md`
 - [ ] Update content in `articles/php/zendframework/existing-app.md`
 - [ ] Update content in `articles/php/zendframework/from-scratch.md`
-
-[Site](https://guides.nanobox.io) | [On Github](https://github.com/nanobox-io/nanobox-guides)
 
 ### Quickstarts
 Our quickstarts are a way for people to get started quickly with Nanobox. We created as many of these as we could as fast as we could, but over time, they've gotten old and likely need updating!  
