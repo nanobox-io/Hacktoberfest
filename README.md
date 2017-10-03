@@ -16,6 +16,26 @@ Grab a guide and run through it. If it doesn't work, fix it! Also, fix any typos
 #### Specific Guides
 If you're looking to contribute full-fledged guides, the following guides are highly requested, they just need updated content:
 
+**Generic Scala Guides**
+There are currently guides for the Play framework, but generic Scala guides would be awesome. The easiest way to do this is to copy files for existing generic language guides and adapt them accordingly. Using existing Python guides as an example, here's what you would do.
+
+- [ ] `cp -a app/pages/python/generic app/pages/scala/generic` and update jade content for Scala
+- [ ] `cp app/pages/python/generic.jade app/pages/scala/generic.jade` and update jade content for Scala
+- [ ] `cp articles/article-groups/python/generic.yml articles/article-groups/scala/generic.yml` and update yaml content for Scala
+- [ ] `cp -a articles/python/generic articles/scala/generic` and update markdown content for Scala
+
+Engine settings can be viewed in the [Scala Engine](https://github.com/nanobox-io/nanobox-engine-scala).
+
+**Generic Java Guides**
+Guides for running Java apps with Nanobox would be great! The easiest way to do this is to copy files for existing generic language guides and adapt them accordingly. Using existing Python guides as an example, here's what you would do.
+
+- [ ] `cp -a app/pages/python/generic app/pages/java/generic` and update jade content for Java
+- [ ] `cp app/pages/python/generic.jade app/pages/java/generic.jade` and update jade content for Java
+- [ ] `cp articles/article-groups/python/generic.yml articles/article-groups/java/generic.yml` and update yaml content for Java
+- [ ] `cp -a articles/python/generic articles/java/generic` and update markdown content for Java
+
+Engine settings can be viewed in the [Java Engine](https://github.com/nanobox-io/nanobox-engine-java).
+
 **(PHP) CakePHP Guides**
 - [ ] Update content in `articles/php/cakephp/add-a-database.md`
 - [ ] Update content in `articles/php/cakephp/configure-yii.md`
