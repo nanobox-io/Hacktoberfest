@@ -16,7 +16,7 @@ Grab a guide and run through it. If it doesn't work, fix it! Also, fix any typos
 #### Specific Guides
 If you're looking to contribute full-fledged guides, the following guides are highly requested, they just need updated content:
 
-**Generic Scala Guides**
+**Generic Scala Guides**  
 There are currently guides for the Play framework, but generic Scala guides would be awesome. The easiest way to do this is to copy files for existing generic language guides and adapt them accordingly. Using existing Python guides as an example, here's what you would do.
 
 - [ ] `cp -a app/pages/python/generic app/pages/scala/generic` and update jade content for Scala
@@ -26,7 +26,7 @@ There are currently guides for the Play framework, but generic Scala guides woul
 
 Engine settings can be viewed in the [Scala Engine](https://github.com/nanobox-io/nanobox-engine-scala).
 
-**Generic Java Guides**
+**Generic Java Guides**  
 Guides for running Java apps with Nanobox would be great! The easiest way to do this is to copy files for existing generic language guides and adapt them accordingly. Using existing Python guides as an example, here's what you would do.
 
 - [ ] `cp -a app/pages/python/generic app/pages/java/generic` and update jade content for Java
