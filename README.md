@@ -1,3 +1,5 @@
+![Nanobox & Hacktoberfest](https://content.nanobox.io/content/images/2017/10/hacktoberfest-gh-banner.png)
+
 # Hacktoberfest
 Contribute to all the [Nanobox] things! [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is here, and if you're looking for an opportunity to contribute, we're here to help. We have a ton of open source projects that are ready and waiting for your pull requests.
 
