@@ -40,10 +40,10 @@ Guides for running Java apps with Nanobox would be great! The easiest way to do 
 Engine settings can be viewed in the [Java Engine](https://github.com/nanobox-io/nanobox-engine-java).
 
 **(PHP) CakePHP Guides**
-- [ ] Update content in `articles/php/cakephp/add-a-database.md`
-- [ ] Update content in `articles/php/cakephp/configure-yii.md`
-- [ ] Update content in `articles/php/cakephp/existing-app.md`
-- [ ] Update content in `articles/php/cakephp/from-scratch.md`
+- [x] Update content in `articles/php/cakephp/add-a-database.md`
+- [x] Update content in `articles/php/cakephp/configure-cakephp.md`
+- [x] Update content in `articles/php/cakephp/existing-app.md`
+- [x] Update content in `articles/php/cakephp/from-scratch.md`
 
 **(Python) Pyramid Guides**
 - [ ] Update content in `articles/python/pyramid/add-a-database.md`
